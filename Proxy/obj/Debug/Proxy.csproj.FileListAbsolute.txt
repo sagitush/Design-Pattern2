@@ -1,0 +1,7 @@
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\bin\Debug\Proxy.exe
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\bin\Debug\Proxy.pdb
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\obj\Debug\Proxy.exe
+C:\Users\sagit\Source\Repos\DesignPatern1.3.20\Proxy\obj\Debug\Proxy.pdb
